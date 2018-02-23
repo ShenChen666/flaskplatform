@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: flaskplatform
+Version: 0.1
+Summary: Basic system information for COMP30670
+Home-page: UNKNOWN
+Author: chenshen
+Author-email: chen.shen@ucdconnect.ie
+License: GPL3
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

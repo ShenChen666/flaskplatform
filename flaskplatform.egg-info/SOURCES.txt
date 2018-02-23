@@ -1,0 +1,16 @@
+CONTRIBUTING.rst
+HISTORY.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+flaskp/__init__.py
+flaskp/main.py
+flaskp/views.py
+flaskplatform.egg-info/PKG-INFO
+flaskplatform.egg-info/SOURCES.txt
+flaskplatform.egg-info/dependency_links.txt
+flaskplatform.egg-info/entry_points.txt
+flaskplatform.egg-info/not-zip-safe
+flaskplatform.egg-info/top_level.txt
+test/test_assignment2.py
